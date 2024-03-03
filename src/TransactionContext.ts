@@ -1,4 +1,0 @@
-import { createContext } from "react";
-
-export const TransactionsContext = createContext([]);
-TransactionsContext.displayName = "Transactions";
